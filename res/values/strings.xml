@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TCC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Ir">Ir</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Origem">Origem</string>
+    <string name="Destino">Destino</string>
+    <string name="QntParadas">Quantidade de Paradas</string>
+    <string name="ProximaParada">Próxima Parada</string>
+    <string name="Detalhes">Detalhes da Rota</string>
+    <string name="TempoChegada">Tempo Aproximado de Chegada</string>
+    <string name="QntParadasIntermediarias">Quantidade de Paradas Intermediárias</string>
+    <string name="ProximoOnibus">Próximo Ônibus</string>
+    <string name="ParadaDesembarque">Parada Desembarque</string>
+    <string name="ParadaEmbarque">Parada Embarque</string>
+    <string name="Voltar">Voltar</string>
+    <string name="novaRota">Nova Rota</string>
+    <string name="minhasRotas">Minhas Rotas</string>
+    <string name="linhasProximas">Linhas Próximas</string>
+    <string name="sair">Sair</string>
+    <string name="configuracoes">Configurações</string>
+
+</resources>
